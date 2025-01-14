@@ -1,0 +1,18 @@
+
+# Prerequisites
+*.d
+
+# Object files
+*.o
+
+# Executables
+*.exe
+*.out
+
+# Debug files
+*.dSYM/
+
+# IDE specific files
+.vscode/
+.idea/
+
