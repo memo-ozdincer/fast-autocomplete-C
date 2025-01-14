@@ -1,4 +1,3 @@
-```markdown
 # Autocomplete System
 
 A C implementation of an autocomplete system that suggests terms based on prefix matching. The system uses binary search for efficient prefix matching and sorts results by weight.
